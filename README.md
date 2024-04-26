@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! I'm SaeChan
+#### I'm passionate about Natural Language Processing
+
+- (2018.3 ~ 2024.7) Computer Engineering in Jeju National University (Expected Graduate)
+- (2020.3 ~ 2020.12) Machine Learning Lab in Jeju Natinoal University
+- (2022.6 ~ 2022.12) NLP Engineer at TUNiB
 
 <!--
 **newfull5/newfull5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
