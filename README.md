@@ -1,4 +1,11 @@
 ### Hi! I'm SaeChan
+
+[![Static Badge](https://img.shields.io/badge/CV-black)](https://github.com/newfull5/newfull5/blob/main/CV.pdf)
+[![Static Badge](https://img.shields.io/badge/Facebook-black)](https://www.facebook.com/profile.php?id=100006507302488&locale=ko_KR)
+[![Static Badge](https://img.shields.io/badge/Blog-black)](https://devjounal.tistory.com/)
+
+
+
 #### I'm passionate about Natural Language Processing
 
 - (2018.3 ~ 2024.7) Computer Engineering in Jeju National University (Expected Graduate)
