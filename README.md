@@ -1,11 +1,8 @@
-### Hi! I'm SaeChan
+## Hi! I'm SaeChan
 
 [![Static Badge](https://img.shields.io/badge/CV-black)](https://github.com/newfull5/newfull5/blob/main/CV.pdf)
 [![Static Badge](https://img.shields.io/badge/Facebook-black)](https://www.facebook.com/profile.php?id=100006507302488&locale=ko_KR)
 [![Static Badge](https://img.shields.io/badge/Blog-black)](https://devjounal.tistory.com/)
-
-
-## 👋 Hi! I'm SaeChan
 
 I'm passionate about Natural Language Processing (NLP) and love working on projects that involve understanding and generating human language. My goal is to create innovative solutions that make technology more intuitive and accessible for everyone.
 
