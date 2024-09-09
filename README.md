@@ -5,24 +5,21 @@
 [![Static Badge](https://img.shields.io/badge/Blog-black)](https://devjounal.tistory.com/)
 
 
+## 👋 Hi! I'm SaeChan
 
-#### I'm passionate about Natural Language Processing
+I'm passionate about Natural Language Processing (NLP) and love working on projects that involve understanding and generating human language. My goal is to create innovative solutions that make technology more intuitive and accessible for everyone.
 
-- (2018.3 ~ 2024.7) Computer Engineering in Jeju National University (Expected Graduate)
-- (2020.3 ~ 2020.12) Machine Learning Lab in Jeju Natinoal University
-- (2021.6 ~ 2021.12) NLP Engineer at TUNiB
+### 🔧 What can i do
 
-<!--
-**newfull5/newfull5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Languages**: Python, SQL, Bash
+- **Machine Learning**: PyTorch, Transformers, LangChain
+- **Skill**: Prompt Engineering(RAG, CoT), Fine-tuning(LoRA, SFT, DPO, RLHF), Knowledge Distillation
+- **Cloud Platforms**: AWS (S3, Lambda, EC2), GCP (BigQuery, Cloud Functions)
 
-Here are some ideas to get you started:
+### 🌱 What I'm Learning
+Currently focusing on advanced NLP techniques such as transformer models and fine-tuning for specific tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Let's Connect!
+Feel free to reach out if you'd like to collaborate on NLP projects or discuss anything tech-related!
+
+Thanks for stopping by, and let's make machines understand us better! 😄
