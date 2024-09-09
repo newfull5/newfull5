@@ -9,8 +9,8 @@ I'm passionate about Natural Language Processing (NLP) and love working on proje
 ### 🔧 What can i do
 
 - **Languages**: Python, SQL, Bash
-- **Machine Learning**: PyTorch, Transformers, LangChain
-- **Skill**: Prompt Engineering(RAG, CoT), Fine-tuning(LoRA, SFT, DPO, RLHF), Knowledge Distillation
+- **ML Service**: PyTorch, Transformers, LangChain, FastAPI
+- **Skill**: Prompt Engineering(RAG, CoT), PEFT(LoRA, DPO), Knowledge Distillation
 - **Cloud Platforms**: AWS (S3, Lambda, EC2), GCP (BigQuery, Cloud Functions)
 
 ### 🌱 What I'm Learning
