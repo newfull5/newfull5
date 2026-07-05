@@ -3,7 +3,7 @@
 
 
 [![Static Badge](https://img.shields.io/badge/CV-black)](https://github.com/newfull5/newfull5/blob/main/CV.pdf)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-black)](https://www.linkedin.com/in/%EC%83%88%EC%B0%AC-%EC%98%A4-067965363/)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-black)](https://www.linkedin.com/in/newfull5/)
 [![Static Badge](https://img.shields.io/badge/Blog-black)](https://devjounal.tistory.com/)
 
 
