@@ -5,6 +5,9 @@
 [![Static Badge](https://img.shields.io/badge/CV-black)](https://github.com/newfull5/newfull5/blob/main/CV.pdf)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-black)](https://www.linkedin.com/in/newfull5/)
 [![Static Badge](https://img.shields.io/badge/Blog-black)](https://devjounal.tistory.com/)
+[![Static Badge](https://img.shields.io/badge/Portfolio-black)](https://newfull5.github.io/)
+
+
 
 
 
